@@ -4,4 +4,4 @@ Fractional NFT with Auction <br>
 [✅] - Vault Factory <br>
 [✅] - Initialized Proxy <br>
 [✅] - Token Vault <br>
-[✅] - IndexERC721 <br>
+[✅] - ERC721 <br>
